@@ -2,9 +2,9 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python ,Javascript and php
 - 💞️ I’m looking to collaborate
-- 📫 How to reach me Dm me in facebook (Sadman.Anik.11)
+- 📫 to reach me, Dm me at facebook (Sadman.Anik.11)
 or Telegram - @Sadman.Anik12
-Mail me at sadmananik8986@gmail.com
+or Mail me at sadmananik8986@gmail.com
 
 <!---
 Sadman-11/Sadman-11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
