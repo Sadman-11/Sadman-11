@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sadman-11
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python ,Javascript and php
-- 💞️ I’m looking to collaborate
 - 📫 to reach me, Dm me at facebook (Sadman.Anik.11)
 or Telegram - @Sadman.Anik12
 or Mail me at sadmananik8986@gmail.com
