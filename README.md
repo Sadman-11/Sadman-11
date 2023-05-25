@@ -1,27 +1,17 @@
-- 👋 Hi, I’m @Sadman-11
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Python ,Javascript and php
-- 📫 to reach me, Dm me at facebook (Sadman.Anik.11)
-or Telegram - @Sadman.Anik12
-or Mail me at sadmananik8986@gmail.com
-![](https://komarev.com/ghpvc/?username=sadman-11&color=green)
-<!---
-Sadman-11/Sadman-11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h1 align="center">Hi 👋, I'm 𝙄𝙡𝙡𝙪𝙨𝙞𝙤𝙣 𝙂𝙝𝙤𝙨𝙩</h1>
-<h3 align="center">A Bangladeshi fontend and backend programmer. I read in class 10. I like to build new things. Moreover, I like to suffer online.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Illusionghost" alt="0xakxvau" /></a> </p>
+<h1 align="center">Hi 👋, I'm Sadman Anik</h1>
+<h3 align="center">A Bangladeshi Tech Enthusiast. I like to stuffs. Moreover, I like to suffer online.</h3>
 
-- 🌱 I’m currently learning **Nodejs, Ethical Hacking, Bug Hunting**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadman-11" alt="SadmanAnik" /></a> </p>
 
-- 📫 How to reach me **0xillusion.ghost@gmail.com**
+- 🌱 I’m currently learning **Nodejs, PHP**
+
+- 📫 How to reach me **sadmananik8986@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/Illusion.ghost?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akxvau" height="30" width="40" /></a>
-<a href="https://instagram.com/illusion.ghost?igshid=ZDdkNTZiNTM=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akxvau" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Sadman.Anik.11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="SadmanAnik" height="30" width="40" /></a>
+<a href="https://instagram.com/sadman.anik12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="SadmanAnik12" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,17 +19,17 @@ You can click the Preview link to take a look at your changes.
 
 ## 📊 Github Stats
 
-<img align="right" src="https://img.shields.io/github/stars/Illusionghost?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/Illusionghost?tab=followers"><img align="right" src="https://img.shields.io/github/followers/Illusionghost?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/Illusionghost">  <img align="right" src="https://komarev.com/ghpvc/?username=Illusionghost"></a>
+<img align="right" src="https://img.shields.io/github/stars/sadman-11?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/sadman-11?tab=followers"><img align="right" src="https://img.shields.io/github/followers/sadman-11?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/sadman-11">  <img align="right" src="https://komarev.com/ghpvc/?username=sadman-11"></a>
 
 <br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Illusionghost&langs_count=8&theme=react&bg_color=151515" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadman-11&langs_count=8&theme=react&bg_color=151515" />
 </p>
 <p align="center">
-<a href="https://github.com/Illusionghost"><img alt="0xAKXVAU's Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=Illusionghost&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Illusionghost&theme=black-ice"
-    alt="0xAKXVAU"/></p>
+<a href="https://github.com/sadman-11"><img alt="Sadman Anik's Github Stats"
+    src="https://github-readme-stats.vercel.app/api?username=sadman-11&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadman-11&theme=black-ice"
+    alt="SadmanAnik"/></p>
 
 <br/>
