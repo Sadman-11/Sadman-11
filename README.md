@@ -19,7 +19,7 @@
 
 ## 📊 Github Stats
 
-<img align="right" src="https://img.shields.io/github/stars/sadman-11?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/sadman-11?tab=followers"><img align="right" src="https://img.shields.io/github/followers/sadman-11?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/sadman-11">  <img align="right" src="https://komarev.com/ghpvc/?username=sadman-11"></a>
+<img align="right" src="https://img.shields.io/github/stars/sadman-11?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/sadman-11?tab=followers"><img align="right" src="https://img.shields.io/github/followers/sadman-11?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/sadman-11">  <img align="right" src="https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=sadman-11"></a>
 
 <br><br>
 
